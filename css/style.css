@@ -37,3 +37,10 @@
   color: rgb(26 188 156);
 }
 
+.transparent-circle {
+  border:2px solid white;
+  border-radius:50%;
+  color:white;
+  padding: .6rem;
+  margin: .5rem;
+}
