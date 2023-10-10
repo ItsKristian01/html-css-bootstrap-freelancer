@@ -1,19 +1,34 @@
-:root {
-  --
+/* HEADER */
+.black-bg {
+  background-color: rgb(44 62 80);
 }
+
+/* MAIN */
+/* HERO */
+.hero-bg {
+  background-color: rgb(26 188 156);
+}
+
 .svg-resize {
   max-width: 100%;
 }
 
+/* CONTACT ME SECTION */
 .ms-container-small{
   width: 60%;
   margin: 0 auto;
 }
 
-.black-bg {
+/* FOOTER */
+
+.footer-top {
+  background-color: rgb(58 84 109);
+}
+
+.footer-bot {
   background-color: rgb(44 62 80);
 }
 
-.hero-bg {
-  background-color: rgb(26 188 156);
+.color-text {
+  color: rgb(26 188 156);
 }
