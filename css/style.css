@@ -3,3 +3,7 @@
   max-width: 50%;
 }
 
+.ms-container-small{
+  width: 60%;
+  margin: 0 auto;
+}
