@@ -19,6 +19,10 @@
   margin: 0 auto;
 }
 
+.btn-color {
+  background-color: rgb(26 188 156);
+}
+
 /* FOOTER */
 
 .footer-top {
@@ -32,3 +36,4 @@
 .color-text {
   color: rgb(26 188 156);
 }
+
