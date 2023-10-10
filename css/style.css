@@ -1,4 +1,6 @@
-
+:root {
+  --
+}
 .svg-resize {
   max-width: 100%;
 }
@@ -6,4 +8,12 @@
 .ms-container-small{
   width: 60%;
   margin: 0 auto;
+}
+
+.black-bg {
+  background-color: rgb(44 62 80);
+}
+
+.hero-bg {
+  background-color: rgb(26 188 156);
 }
