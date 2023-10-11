@@ -13,6 +13,7 @@
   max-width: 100%;
 }
 
+
 /* CONTACT ME SECTION */
 .ms-container-small{
   width: 60%;
@@ -38,9 +39,11 @@
 }
 
 .transparent-circle {
+  display: inline-block;
   border:2px solid white;
   border-radius:50%;
   color:white;
-  padding: .6rem;
-  margin: .5rem;
+  padding: .7rem;
+  width: 60px;
+  height: 60px;
 }
